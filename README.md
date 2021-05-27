@@ -8,3 +8,5 @@ Enjoy the journey and a fika while playing your favorite game and discovering No
 The application will be first mobile based and as backup website based, and will be build using Swift, Js, node.js and express.
 
 Stay tuned!
+
+![screenshot1](./assets/images/norge.jpg)
